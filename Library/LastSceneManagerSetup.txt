@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/99.Asset Store/UI/Low Poly UI Kit - v.1.1c/Demo/1@_LoadingScreen.unity
+  isLoaded: 1
+  isActive: 1
