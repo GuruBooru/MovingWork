@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Asset Store/Scenes/Main.unity
+    guid: 0893f205e965b6d4793340faacf38165
+  - enabled: 1
+    path: Assets/Asset Store/Scenes/countDown.unity
+    guid: 1c6c7b62d60f47b4f872666b3c05bfe5
+  - enabled: 1
+    path: Assets/01.Scenes/Map_Desert1.unity
+    guid: 8e88a7f617822874f8d822b7c43bd238
+  - enabled: 1
+    path: Assets/01.Scenes/Game.unity
+    guid: ba9688fa0f1b9584383a4d2be9f88766
+  - enabled: 1
+    path: Assets/01.Scenes/Road.unity
+    guid: 4efcd88c59ec51a4bbc26e0685cf3a58
+  - enabled: 1
+    path: Assets/Asset Store/Scenes/Obtacle.unity
+    guid: f223be88a0405694d806ea8ae5a3dfaf
+  - enabled: 1
+    path: Assets/Asset Store/Scenes/GameOver.unity
+    guid: 86dba467cd3541042a93fa05b40e4b25
+  m_configObjects: {}
