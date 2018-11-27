@@ -683,7 +683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4024231428571642}
   m_Layer: 0
-  m_Name: Road-CloudM 1
+  m_Name: Road-CloudM easy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1367,7 +1367,7 @@ Transform:
   m_GameObject: {fileID: 1408024832042400}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -5.8587074, y: -0.2701006, z: -0.039390326}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1.03}
   m_Children:
   - {fileID: 4306275186311966}
   - {fileID: 4634182799476848}

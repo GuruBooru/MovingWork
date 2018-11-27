@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class RoadManager : MonoBehaviour {
 
+    public int Level;
     public GameObject[] prefabs;
-//	public GameObject Road;
+
     private Transform playerTransform;
-    private float spawnZ = -4.86f;        // 타일 스폰 위치
-    private float tileLength = 4.86f;   // 한 타일의 길이
+    private float spawnZ = -5f; // -4.86f;        // 타일 스폰 위치
+    private float tileLength = 5f; // 4.86f;   // 한 타일의 길이
     private float safeZone = 50f;
-    private int amnTilesOnScreen = 52;  // 한번에 소환할 타일의 갯수
+    private int amnTilesOnScreen = 42;  // 한번에 소환할 타일의 갯수
     private int lastPrefabIndex = 0;
 
     private List<GameObject> activeTiles;
@@ -23,7 +24,7 @@ public class RoadManager : MonoBehaviour {
 
         // 한번에 생성하는 것으로 변경
         for (int i = 0; i < amnTilesOnScreen; i++) {
-            if (i < 7)
+            if (i < 6)
                 SpawnTile(0);
             else
                 SpawnTile();
