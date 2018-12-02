@@ -61,7 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\05.Openpose\Editor\HumanSetting.cs" />
+    <Compile Include="Assets\Editor\HumanSetting.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/git/MovingWork/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

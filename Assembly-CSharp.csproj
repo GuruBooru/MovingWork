@@ -77,23 +77,23 @@
     <Compile Include="Assets\02.Scripts\SetCount.cs" />
     <Compile Include="Assets\02.Scripts\SplashScript.cs" />
     <Compile Include="Assets\02.Scripts\WebCam.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Examples\Scripts\HumanController2D.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Examples\Scripts\Output2DHandler.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Examples\Scripts\PlayerMovingO.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Modules\Scripts\OPAPI.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Modules\Scripts\OPEnums.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Modules\Scripts\OPFlags.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Modules\Scripts\OPOutput.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Modules\Scripts\OPOutputParser.cs" />
-    <Compile Include="Assets\05.Openpose\OpenPose\Modules\Scripts\OPWrapper.cs" />
     <Compile Include="Assets\99.Asset Store\Background\BrokenVector\LowPolySurvivalEssentials\Example\Scripts\AnimatedFire.cs" />
+    <Compile Include="Assets\Openpose\Examples\Scripts\HumanController2D.cs" />
+    <Compile Include="Assets\Openpose\Examples\Scripts\Output2DHandler.cs" />
+    <Compile Include="Assets\Openpose\Examples\Scripts\PlayerMovingO.cs" />
+    <Compile Include="Assets\Openpose\Modules\Scripts\OPAPI.cs" />
+    <Compile Include="Assets\Openpose\Modules\Scripts\OPEnums.cs" />
+    <Compile Include="Assets\Openpose\Modules\Scripts\OPFlags.cs" />
+    <Compile Include="Assets\Openpose\Modules\Scripts\OPOutput.cs" />
+    <Compile Include="Assets\Openpose\Modules\Scripts\OPOutputParser.cs" />
+    <Compile Include="Assets\Openpose\Modules\Scripts\OPWrapper.cs" />
     <None Include="Assets\99.Asset Store\Character\FreeVoxelGirl\ReadMe.txt" />
-    <None Include="Assets\05.Openpose\OpenPose\Notice.txt" />
-    <None Include="Assets\05.Openpose\StreamingAssets\models\face\haarcascade_frontalface_alt.xml" />
+    <None Include="Assets\Openpose\Notice.txt" />
+    <None Include="Assets\StreamingAssets\models\face\haarcascade_frontalface_alt.xml" />
     <None Include="Assets\99.Asset Store\Background\BrokenVector\LowPolyShaders\Shaders\LowPolyPBRShader.shader" />
-    <None Include="Assets\05.Openpose\StreamingAssets\PutModelsFolderHere.txt" />
+    <None Include="Assets\StreamingAssets\PutModelsFolderHere.txt" />
     <None Include="Assets\99.Asset Store\Background\BrokenVector\LowPolyShaders\Shaders\LowPolyUnlitShader.shader" />
-    <None Include="Assets\05.Openpose\OpenPose\Plugins\PutPluginsFolderHere.txt" />
+    <None Include="Assets\Openpose\Plugins\PutPluginsFolderHere.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/git/MovingWork/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

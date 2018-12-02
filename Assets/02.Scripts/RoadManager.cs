@@ -33,7 +33,7 @@ public class RoadManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	private void Update () {
-        if (playerTransform.position.z - safeZone > (spawnZ - amnTilesOnScreen * tileLength))
+        if (playerTransform.position.z - safeZone > (spawnZ - tileLength))
         {
             DeleteTile();
         }

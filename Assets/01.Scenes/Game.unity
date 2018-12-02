@@ -125,7 +125,6 @@ GameObject:
   - component: {fileID: 58682660}
   - component: {fileID: 58682659}
   - component: {fileID: 58682658}
-  - component: {fileID: 58682657}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -133,17 +132,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &58682657
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 58682656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d361e795863c2045a555a7152e1318e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &58682658
 MonoBehaviour:
   m_ObjectHideFlags: 0
